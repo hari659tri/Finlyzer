@@ -77,6 +77,7 @@
    RESEND_API_KEY=your_resend_api_key
    ARCJET_SECRET=your_arcjet_secret
    INNGEST_EVENT_KEY=your_inngest_event_key
+    GEMINI_API_KEY=your_GEMINI_API_KEY
   
 4. Push Prisma schema
    ```bash
