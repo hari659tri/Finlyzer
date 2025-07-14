@@ -65,11 +65,11 @@
    ```bash
    git clone https://github.com/your-username/finlyzer.git
    cd finlyzer
-2. **Install dependencies
+2. Install dependencies
    ```bash
    npm install
 
-3. **Configure environment variables
+3. Configure environment variables
     ```bash
    NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_key
    CLERK_SECRET_KEY=your_key
