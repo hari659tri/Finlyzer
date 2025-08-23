@@ -2,6 +2,9 @@
 
 **Finlyzer** = *Finance* + *Visualizer* — A smart personal finance manager that helps you track expenses, set budgets, receive monthly reports, and get alerts when your spending exceeds safe limits — all through a modern, secure, and AI-powered interface.
 
+<H2> Here is the Working project Video Link</H1>
+https://youtu.be/AMIBUBO5mLg
+
 ---
 
 ## 🚀 Tech Stack
